@@ -1,3 +1,4 @@
+django-ajax-datatable-export is a continuation of https://github.com/jpuerto-psc/django-ajax-datatable
 
 django-ajax-datatable
 =====================
